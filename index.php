@@ -5,8 +5,6 @@
     <title></title>
   </head>
   <body>
-    <?php
-    // put your code here
-    ?>
+    <h1>Master Branch</h1>
   </body>
 </html>
